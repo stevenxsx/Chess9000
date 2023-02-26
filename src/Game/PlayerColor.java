@@ -1,5 +1,5 @@
 package Game;
 
 public enum PlayerColor {
-    White,Black
+    White,Black,Empty
 }

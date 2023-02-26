@@ -9,4 +9,12 @@ public class Piece {
         this.type = type;
         this.color = color;
     }
+
+    public PieceType getPieceType() {
+        return type;
+    }
+
+    public PlayerColor getPlayerColor() {
+        return color;
+    }
 }
